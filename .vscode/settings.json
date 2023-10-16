@@ -1,5 +1,6 @@
 {
     "files.associations": {
+        "*.cpp": "cpp",
         "vector": "cpp",
         "utility": "cpp",
         "limits": "cpp",
@@ -54,7 +55,27 @@
         "unordered_map": "cpp",
         "bit": "cpp",
         "clocale": "cpp",
-        "ctime": "cpp"
+        "ctime": "cpp",
+        "array": "cpp",
+        "chrono": "cpp",
+        "forward_list": "cpp",
+        "string_view": "cpp",
+        "format": "cpp",
+        "ranges": "cpp",
+        "span": "cpp",
+        "stacktrace": "cpp",
+        "regex": "cpp",
+        "valarray": "cpp",
+        "numeric": "cpp",
+        "random": "cpp",
+        "bitset": "cpp",
+        "any": "cpp"
     },
-    "python.pythonPath": "C:\\Program Files\\Python39\\python.exe"
+    "python.pythonPath": "C:\\Program Files\\Python39\\python.exe",
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.black-formatter"
+    },
+    "python.formatting.provider": "none",
+    "C_Cpp.default.intelliSenseMode": "windows-gcc-x64",
+    "C_Cpp.default.compilerPath": "D:\\scoop\\Userscoop\\apps\\mingw\\current\\bin\\g++.exe"
 }
